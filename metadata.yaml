@@ -1,4 +1,8 @@
 _repo: Die-Hexenrichter-von-Wurzburg_48476
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48476-h/images/icover.jpg
 creator:
   author:
     agent_name: Seeburg, Franz von
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44815
     wikipedia: https://de.wikipedia.org/wiki/Franz_Xaver_Hacker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48476#Die-Hexenrichter-von-Wurzburg
 gutenberg_issued: '2015-03-12'
 gutenberg_type: Text
 identifiers:
